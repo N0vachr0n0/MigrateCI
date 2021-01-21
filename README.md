@@ -4,12 +4,15 @@ Migrate CI est une application android pour migrer ses numeros ivoirien de 8 chi
 
 ## Quelques Screenshots
 
-![plot](./screenshots/S1.png)
-![plot](./screenshots/S2.png)
-![plot](./screenshots/S3.png)
-![plot](./screenshots/S4.png)
-![plot](./screenshots/S5.png)
-![plot](./screenshots/S6.png)
-![plot](./screenshots/S7.png)
-![plot](./screenshots/S8.png)
-![plot](./screenshots/S9.png)
+<img src="./screenshots/S1.png"  width="250" height="500" />   
+
+<img src="./screenshots/S2.png"  width="250" height="500" /> <img src="./screenshots/S3.png"  width="250" height="500" />  <img src="./screenshots/S4.png"  width="250" height="500" />
+
+<img src="./screenshots/S5.png"  width="250" height="500" />  <img src="./screenshots/S6.png"  width="250" height="500" />    <img src="./screenshots/S7.png"  width="250" height="500" />  
+
+<img src="./screenshots/S8.png"  width="250" height="500" />  <img src="./screenshots/S9.png"  width="250" height="500" />
+
+
+## Contribution 
+
+Toutes contributions est la bienvenue :)
