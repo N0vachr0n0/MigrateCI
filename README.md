@@ -15,5 +15,5 @@ Migrate CI est une application android pour migrer ses numeros ivoirien de 8 chi
 
 ## Contribution 
 
-Toutes contributions est la bienvenue :)
-N'hésitez pas à signaler un bug. 😁
+<p>Toutes contributions est la bienvenue ! 🙃
+N'hésitez pas à signaler un bug. 😁</p>
